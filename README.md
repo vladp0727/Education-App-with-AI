@@ -1,5 +1,8 @@
 # Education APP with AI
-
+## Preview
+![Main](main.PNG)
+![Second](2.PNG)
+![Progress](progress.PNG)
 ## XD Design URL
 https://xd.adobe.com/view/c852dfc6-def1-4487-a8a8-5f578efdd1fe-9d01/
 
